@@ -254,7 +254,7 @@ int main( int argc, const char** argv )
     // Add key tips on how to use the software when running it
     cout << "* mark rectangles with the left mouse button," << endl;
     cout << "* press 'c' to accept a selection," << endl;
-    cout << "* press 'd' to delete the latest selection," << endl;
+    cout << "* press 'd' to delete the last selection," << endl;
     cout << "* press 'n' to proceed with next image," << endl;
     cout << "* press 'esc' to stop." << endl;
 
